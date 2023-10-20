@@ -17,9 +17,6 @@ The tag makes use of, as far as I know, the only way for a NotSoBot tag script t
 1. If you don't have one, host an online website. In case you don't have a server or the money to pay for one, I personally used www.000webhost.com for my server's bulletin board, but be careful with those sketchy free web hosting websites. I'll be doing the rest of the setup in this website
 2. Download the latest release for this project (The .zip file) and unzip
 3. After unzipping, open the "start.nsb" file with any text editor and replace both "[YOURWEBSITE]"s with your website's URL, to whichever path you left the bboard folder in (Ej: coolserver.000webhostapp.com)
-
-![BBoardfolder](https://media.discordapp.net/attachments/1089617879122587660/1164740588525080596/image.png?ex=65445034&is=6531db34&hm=796e47a6552bac7d07adbcd21290fbb35c631ea5ecf6447bb956021b2ccfbcd7&=)
-
 4. If you want to change the N° of how many people it takes to reset the board, you'll have to edit the file bboard/model/Functions.php, go to line 43 and change the "5" with whatever number, I'll make a more convenient way of doing this later lol
 5. Upload the bboard folder to your web server. If you're using 000webhost, go to "File Manager" and upload it to the public_html folder (or any subdirectory)
 6. Copy and paste the contents of "start.nsb", go to the discord server of your choice and run the notsobot command "-t create bboard <code>"
