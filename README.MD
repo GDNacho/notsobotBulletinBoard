@@ -21,7 +21,7 @@ The tag makes use of, as far as I know, the only way for a NotSoBot tag script t
 5. Upload the bboard folder to your web server. If you're using 000webhost, go to "File Manager" and upload it to the public_html folder (or any subdirectory)
 6. Copy and paste the contents of "start.nsb", go to the discord server of your choice and run the notsobot command "-t create bboard <code>"
 ![Message](https://media.discordapp.net/attachments/1089617879122587660/1164736519957921923/image.png?ex=65444c6a&is=6531d76a&hm=9d75bd387cc36f862c7ac4a31e61bc88325ee52a8ea2b3819f3e456627b272c3&=)
-7. If the command is not working you typed the wrong URL in "[YOURWEBSITE]", note that you shouldn't type the "public_html" in the 
+7. If the command is not working you typed the wrong URL in "[YOURWEBSITE]", note that you shouldn't type the "public_html" in the directory help why is this formatted like crap
 
 ## Demonstrations
 ![demo1](https://cdn.discordapp.com/attachments/1089617879122587660/1164744045961158676/image.png?ex=6544536c&is=6531de6c&hm=59ad5162edc0d871900e71e41a923fbb90468870941a69f37d51167875c7a82d&)
