@@ -1,4 +1,4 @@
-# DotSoBot custom tag: Server Bulletin Board
+# NotSoBot custom tag: Server Bulletin Board
 
 **Server Bulletin Board (bboard)** is a custom NotSoBot tag that allows members of a Discord server to write plain black text messages on a blank HTML page, essentially creating a virtual bulletin board.
 
