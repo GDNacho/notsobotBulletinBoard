@@ -10,7 +10,6 @@ The tag makes use of, as far as I know, the only way for a NotSoBot tag script t
 
 - Please note that the project stores data in JSON files instead of a MySQL database, which are easily accessible via a web browser. However, the data stored does not compromise users' privacy, for it only stores the Discord user IDs of those who have used the tag at least once (in order to keep track of votes and 10 second cooldown) and the messages in the bulletin board.
 - Due to limitations in NotSoBot and in myself, be aware that the code could be vulnerable to hijacking. I believe the consequences are limited to the JSON files being wiped from the server but I don't *really* know, host at your own risk.
-- Quite often NotSoBot returns a MediaScript timeout error, that is an iscript bug, its out of my control, but do know that it means the HTTP request did go through (So if you wrote a message or voted to reset, it was stored)
 
 ## Set-up
 
